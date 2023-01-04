@@ -1,0 +1,10 @@
+VALID_LOGIN = 'vkatryuk@yandex.ru'
+VALID_PASSWORD = '5566220vint'
+
+url_login_page = 'https://web.teambooktest.com/login'
+url_profile_page = 'https://web.teambooktest.com/profile'
+url_registration_page = 'https://web.teambooktest.com/register'
+url_planning_page = 'https://web.teambooktest.com/planners/683/2022-12-05'
+url_actuals_page = 'https://web.teambooktest.com/actuals'
+url_user_page = 'https://web.teambooktest.com/users'
+url_project_page = 'https://web.teambooktest.com/projects'
